@@ -1,8 +1,6 @@
 package ru.ssu.kabanov;
 
 
-import junit.framework.TestCase;
-
 public class AppTest {
 
     public static void main(String[] args) {

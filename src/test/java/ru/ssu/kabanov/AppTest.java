@@ -1,8 +1,6 @@
 package ru.ssu.kabanov;
 
 
-import junit.framework.TestCase;
-
 public class AppTest {
 
     public static void main(String[] args) {
@@ -23,7 +21,7 @@ public class AppTest {
         } catch (NullPointerException e) {
             System.out.println("Массив не инициализирован: " + e);
         }
-
+//asdfasd
         System.out.println("Program end");
 
     }
